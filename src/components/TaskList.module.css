@@ -1,0 +1,7 @@
+.tasks {
+    display: grid;
+    list-style-type: none;
+    gap: 1.5em;
+  }
+
+  
